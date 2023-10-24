@@ -21,12 +21,15 @@ Sebelum Anda memulai, pastikan Anda telah menginstal perangkat lunak berikut:
    
 2. Masuk ke direktori proyek:
 
+    ```bash
    cd nama-proyek
 
 4. Install dependensi:
 
+    ```bash
    npm install
 
 6. Menjalankan aplikasi:
 
+    ```bash
    npm start
