@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Proyek ini adalah backend REST API yang dikembangkan dengan menggunakan Express.js dan Sequelize sebagai Object-Relational Mapping (ORM). Aplikasi ini merupakan bagian dari proyek Next.js App dan berinteraksi dengan database MySQL. Proyek ini bertujuan untuk [deskripsi singkat tujuan atau fungsionalitas aplikasi, misalnya, menyediakan API untuk manajemen data dalam aplikasi Next.js].
+Proyek ini adalah backend REST API yang dikembangkan dengan menggunakan Express.js dan Sequelize sebagai Object-Relational Mapping (ORM). Aplikasi ini merupakan bagian dari proyek Next.js App dan berinteraksi dengan database MySQL. Proyek ini bertujuan untuk menyediakan API untuk manajemen data dalam aplikasi Next.js
 
 ## Persyaratan
 
